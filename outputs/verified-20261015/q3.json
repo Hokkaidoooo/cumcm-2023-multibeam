@@ -1,0 +1,2523 @@
+{
+  "parameters": {
+    "width_m": 7408,
+    "line_length_m": 3704,
+    "center_depth_m": 110,
+    "west_depth_m": 206.9926534922684,
+    "east_depth_m": 13.007346507731626,
+    "slope_deg": -1.5,
+    "opening_deg": 120,
+    "candidate_facing_overlaps": [
+      0.105,
+      0.12,
+      0.15,
+      0.18
+    ]
+  },
+  "length_scope": "north-south survey lines only; no turns or transits; no global optimality claim",
+  "legacy_counterexample": {
+    "target_m": [
+      0,
+      7408
+    ],
+    "overlap_range": [
+      0.1,
+      0.2
+    ],
+    "fully_covered": false,
+    "uncovered_intervals_m": [
+      [
+        7392.255289549464,
+        7408
+      ]
+    ],
+    "uncovered_length_m": 15.744710450536331,
+    "overlap_satisfied": false,
+    "strips": [
+      {
+        "center_m": 341.374978,
+        "left_m": -17.906687627004658,
+        "right_m": 669.4799829348697
+      },
+      {
+        "center_m": 960.0229815056869,
+        "left_m": 630.1233266681203,
+        "right_m": 1261.2955991595609
+      },
+      {
+        "center_m": 1528.0780267479834,
+        "left_m": 1225.1575254415416,
+        "right_m": 1804.71260647966
+      },
+      {
+        "center_m": 2049.67759968229,
+        "left_m": 1771.529900022142,
+        "right_m": 2303.689037227674
+      },
+      {
+        "center_m": 2528.6208231672686,
+        "left_m": 2273.2200084565916,
+        "right_m": 2761.8592363347616
+      },
+      {
+        "center_m": 2968.396128257621,
+        "left_m": 2733.8819610199357,
+        "right_m": 3182.560332446932
+      },
+      {
+        "center_m": 3372.206662541918,
+        "left_m": 3156.8710352946564,
+        "right_m": 3568.856544236592
+      },
+      {
+        "center_m": 3742.9936205896597,
+        "left_m": 3545.2681146718232,
+        "right_m": 3923.5614989468936
+      },
+      {
+        "center_m": 4083.4576664372225,
+        "left_m": 3901.902128274591,
+        "right_m": 4249.258725728253
+      },
+      {
+        "center_m": 4396.0786041455185,
+        "left_m": 4229.3706557475,
+        "right_m": 4548.320473032308
+      },
+      {
+        "center_m": 4683.133439701845,
+        "left_m": 4530.058846988614,
+        "right_m": 4822.92498712169
+      },
+      {
+        "center_m": 4946.712965821614,
+        "left_m": 4806.156794628278,
+        "right_m": 5075.072377545376
+      },
+      {
+        "center_m": 5188.736990447002,
+        "left_m": 5059.675485788674,
+        "right_m": 5306.599185137406
+      },
+      {
+        "center_m": 5410.96831986086,
+        "left_m": 5292.461449310438,
+        "right_m": 5519.191758646431
+      },
+      {
+        "center_m": 5615.025598263253,
+        "left_m": 5506.210205130858,
+        "right_m": 5714.398537426144
+      },
+      {
+        "center_m": 5802.395097329011,
+        "left_m": 5702.478613773572,
+        "right_m": 5893.641329648772
+      },
+      {
+        "center_m": 5974.44154161669,
+        "left_m": 5882.6962158985025,
+        "right_m": 6058.225668187648
+      },
+      {
+        "center_m": 6132.418048676922,
+        "left_m": 6048.17564450478,
+        "right_m": 6209.350319596978
+      },
+      {
+        "center_m": 6277.475256259901,
+        "left_m": 6200.122185624983,
+        "right_m": 6348.1160154483905
+      },
+      {
+        "center_m": 6410.669703100967,
+        "left_m": 6339.642557146968,
+        "right_m": 6475.533469619853
+      },
+      {
+        "center_m": 6532.971524326564,
+        "left_m": 6467.75296970472,
+        "right_m": 6592.530739931683
+      },
+      {
+        "center_m": 6645.271517530829,
+        "left_m": 6585.386528350536,
+        "right_m": 6699.9599877488545
+      },
+      {
+        "center_m": 6748.387630989317,
+        "left_m": 6693.400028919356,
+        "right_m": 6798.603684783866
+      },
+      {
+        "center_m": 6843.0709212673755,
+        "left_m": 6792.580198587253,
+        "right_m": 6889.180312308012
+      },
+      {
+        "center_m": 6930.011023616058,
+        "left_m": 6883.649426077807,
+        "right_m": 6972.349594281861
+      },
+      {
+        "center_m": 7009.841174999706,
+        "left_m": 6967.271023252899,
+        "right_m": 7048.71730252096
+      },
+      {
+        "center_m": 7083.142826340961,
+        "left_m": 7044.054056411258,
+        "right_m": 7118.839668895676
+      },
+      {
+        "center_m": 7150.449877576937,
+        "left_m": 7114.5577824839975,
+        "right_m": 7183.2274367018645
+      },
+      {
+        "center_m": 7212.2525663730175,
+        "left_m": 7179.2957224386255,
+        "right_m": 7242.349580710948
+      },
+      {
+        "center_m": 7269.001038818108,
+        "left_m": 7238.739401560561,
+        "right_m": 7296.636722994746
+      },
+      {
+        "center_m": 7321.108628108875,
+        "left_m": 7293.321783854905,
+        "right_m": 7346.4842694045765
+      },
+      {
+        "center_m": 7368.954865103578,
+        "left_m": 7343.440425583231,
+        "right_m": 7392.255289549464
+      }
+    ],
+    "adjacent_pairs": [
+      {
+        "previous_center_m": 341.374978,
+        "current_center_m": 960.0229815056869,
+        "signed_intersection_m": 39.35665626674938,
+        "paper_facing_halves_rate": 0.0598121239450804,
+        "previous_full_width_rate": 0.05725548363423893,
+        "current_full_width_rate": 0.06235485616533179,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 960.0229815056869,
+        "current_center_m": 1528.0780267479834,
+        "signed_intersection_m": 36.138073718019314,
+        "paper_facing_halves_rate": 0.05981212394508073,
+        "previous_full_width_rate": 0.05725548363423932,
+        "current_full_width_rate": 0.06235485616533218,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 1528.0780267479834,
+        "current_center_m": 2049.67759968229,
+        "signed_intersection_m": 33.18270645751795,
+        "paper_facing_halves_rate": 0.05981212394508029,
+        "previous_full_width_rate": 0.05725548363423883,
+        "current_full_width_rate": 0.0623548561653317,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 2049.67759968229,
+        "current_center_m": 2528.6208231672686,
+        "signed_intersection_m": 30.46902877108232,
+        "paper_facing_halves_rate": 0.05981212394508084,
+        "previous_full_width_rate": 0.05725548363423947,
+        "current_full_width_rate": 0.0623548561653323,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 2528.6208231672686,
+        "current_center_m": 2968.396128257621,
+        "signed_intersection_m": 27.977275314825874,
+        "paper_facing_halves_rate": 0.05981212394508073,
+        "previous_full_width_rate": 0.05725548363423927,
+        "current_full_width_rate": 0.06235485616533224,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 2968.396128257621,
+        "current_center_m": 3372.206662541918,
+        "signed_intersection_m": 25.689297152275685,
+        "paper_facing_halves_rate": 0.059812123945081064,
+        "previous_full_width_rate": 0.05725548363423964,
+        "current_full_width_rate": 0.06235485616533245,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 3372.206662541918,
+        "current_center_m": 3742.9936205896597,
+        "signed_intersection_m": 23.58842956476883,
+        "paper_facing_halves_rate": 0.05981212394508095,
+        "previous_full_width_rate": 0.057255483634239504,
+        "current_full_width_rate": 0.0623548561653324,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 3742.9936205896597,
+        "current_center_m": 4083.4576664372225,
+        "signed_intersection_m": 21.65937067230243,
+        "paper_facing_halves_rate": 0.059812123945081175,
+        "previous_full_width_rate": 0.05725548363423967,
+        "current_full_width_rate": 0.06235485616533263,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 4083.4576664372225,
+        "current_center_m": 4396.0786041455185,
+        "signed_intersection_m": 19.888069980753244,
+        "paper_facing_halves_rate": 0.05981212394508084,
+        "previous_full_width_rate": 0.057255483634239476,
+        "current_full_width_rate": 0.06235485616533238,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 4396.0786041455185,
+        "current_center_m": 4683.133439701845,
+        "signed_intersection_m": 18.261626043693468,
+        "paper_facing_halves_rate": 0.05981212394507929,
+        "previous_full_width_rate": 0.057255483634237825,
+        "current_full_width_rate": 0.062354856165330555,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 4683.133439701845,
+        "current_center_m": 4946.712965821614,
+        "signed_intersection_m": 16.768192493412243,
+        "paper_facing_halves_rate": 0.059812123945081064,
+        "previous_full_width_rate": 0.05725548363423966,
+        "current_full_width_rate": 0.06235485616533255,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 4946.712965821614,
+        "current_center_m": 5188.736990447002,
+        "signed_intersection_m": 15.396891756701734,
+        "paper_facing_halves_rate": 0.059812123945080176,
+        "previous_full_width_rate": 0.057255483634238824,
+        "current_full_width_rate": 0.06235485616533168,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 5188.736990447002,
+        "current_center_m": 5410.96831986086,
+        "signed_intersection_m": 14.1377358269674,
+        "paper_facing_halves_rate": 0.05981212394508206,
+        "previous_full_width_rate": 0.05725548363424052,
+        "current_full_width_rate": 0.06235485616533361,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 5410.96831986086,
+        "current_center_m": 5615.025598263253,
+        "signed_intersection_m": 12.981553515572159,
+        "paper_facing_halves_rate": 0.05981212394507729,
+        "previous_full_width_rate": 0.05725548363423592,
+        "current_full_width_rate": 0.062354856165328626,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 5615.025598263253,
+        "current_center_m": 5802.395097329011,
+        "signed_intersection_m": 11.919923652571924,
+        "paper_facing_halves_rate": 0.05981212394507873,
+        "previous_full_width_rate": 0.05725548363423757,
+        "current_full_width_rate": 0.06235485616532995,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 5802.395097329011,
+        "current_center_m": 5974.44154161669,
+        "signed_intersection_m": 10.945113750269229,
+        "paper_facing_halves_rate": 0.05981212394508084,
+        "previous_full_width_rate": 0.057255483634239226,
+        "current_full_width_rate": 0.062354856165332345,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 5974.44154161669,
+        "current_center_m": 6132.418048676922,
+        "signed_intersection_m": 10.050023682867504,
+        "paper_facing_halves_rate": 0.059812123945076845,
+        "previous_full_width_rate": 0.057255483634235604,
+        "current_full_width_rate": 0.06235485616532834,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 6132.418048676922,
+        "current_center_m": 6277.475256259901,
+        "signed_intersection_m": 9.228133971994794,
+        "paper_facing_halves_rate": 0.05981212394507818,
+        "previous_full_width_rate": 0.05725548363423708,
+        "current_full_width_rate": 0.06235485616532933,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 6277.475256259901,
+        "current_center_m": 6410.669703100967,
+        "signed_intersection_m": 8.473458301422397,
+        "paper_facing_halves_rate": 0.059812123945080065,
+        "previous_full_width_rate": 0.057255483634238616,
+        "current_full_width_rate": 0.062354856165331395,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 6410.669703100967,
+        "current_center_m": 6532.971524326564,
+        "signed_intersection_m": 7.780499915133078,
+        "paper_facing_halves_rate": 0.0598121239450804,
+        "previous_full_width_rate": 0.05725548363423894,
+        "current_full_width_rate": 0.06235485616533199,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 6532.971524326564,
+        "current_center_m": 6645.271517530829,
+        "signed_intersection_m": 7.144211581146919,
+        "paper_facing_halves_rate": 0.05981212394508251,
+        "previous_full_width_rate": 0.057255483634240975,
+        "current_full_width_rate": 0.06235485616533411,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 6645.271517530829,
+        "current_center_m": 6748.387630989317,
+        "signed_intersection_m": 6.5599588294981,
+        "paper_facing_halves_rate": 0.05981212394507607,
+        "previous_full_width_rate": 0.057255483634234716,
+        "current_full_width_rate": 0.06235485616532746,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 6748.387630989317,
+        "current_center_m": 6843.0709212673755,
+        "signed_intersection_m": 6.023486196612794,
+        "paper_facing_halves_rate": 0.05981212394508262,
+        "previous_full_width_rate": 0.05725548363424144,
+        "current_full_width_rate": 0.06235485616533383,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 6843.0709212673755,
+        "current_center_m": 6930.011023616058,
+        "signed_intersection_m": 5.530886230204487,
+        "paper_facing_halves_rate": 0.059812123945080176,
+        "previous_full_width_rate": 0.05725548363423866,
+        "current_full_width_rate": 0.062354856165331644,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 6930.011023616058,
+        "current_center_m": 7009.841174999706,
+        "signed_intersection_m": 5.07857102896196,
+        "paper_facing_halves_rate": 0.059812123945086615,
+        "previous_full_width_rate": 0.057255483634244875,
+        "current_full_width_rate": 0.06235485616533842,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 7009.841174999706,
+        "current_center_m": 7083.142826340961,
+        "signed_intersection_m": 4.663246109702413,
+        "paper_facing_halves_rate": 0.05981212394508384,
+        "previous_full_width_rate": 0.05725548363424217,
+        "current_full_width_rate": 0.06235485616533532,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 7083.142826340961,
+        "current_center_m": 7150.449877576937,
+        "signed_intersection_m": 4.281886411678897,
+        "paper_facing_halves_rate": 0.05981212394509028,
+        "previous_full_width_rate": 0.057255483634248906,
+        "current_full_width_rate": 0.06235485616534244,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 7150.449877576937,
+        "current_center_m": 7212.2525663730175,
+        "signed_intersection_m": 3.931714263238973,
+        "paper_facing_halves_rate": 0.05981212394506652,
+        "previous_full_width_rate": 0.057255483634225,
+        "current_full_width_rate": 0.062354856165316885,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 7212.2525663730175,
+        "current_center_m": 7269.001038818108,
+        "signed_intersection_m": 3.6101791503870118,
+        "paper_facing_halves_rate": 0.059812123945086726,
+        "previous_full_width_rate": 0.05725548363424535,
+        "current_full_width_rate": 0.06235485616533917,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 7269.001038818108,
+        "current_center_m": 7321.108628108875,
+        "signed_intersection_m": 3.3149391398410444,
+        "paper_facing_halves_rate": 0.059812123945076845,
+        "previous_full_width_rate": 0.05725548363423542,
+        "current_full_width_rate": 0.06235485616532747,
+        "within_all_definitions": false
+      },
+      {
+        "previous_center_m": 7321.108628108875,
+        "current_center_m": 7368.954865103578,
+        "signed_intersection_m": 3.0438438213450354,
+        "paper_facing_halves_rate": 0.059812123945087614,
+        "previous_full_width_rate": 0.05725548363424599,
+        "current_full_width_rate": 0.06235485616533973,
+        "within_all_definitions": false
+      }
+    ],
+    "line_count": 32,
+    "total_length_m": 118528
+  },
+  "candidates": [
+    {
+      "target_m": [
+        0,
+        7408
+      ],
+      "overlap_range": [
+        0.1,
+        0.2
+      ],
+      "fully_covered": true,
+      "uncovered_intervals_m": [],
+      "uncovered_length_m": 0,
+      "overlap_satisfied": true,
+      "strips": [
+        {
+          "center_m": 358.5217926421082,
+          "left_m": 5.684341886080802e-14,
+          "right_m": 685.9328625579888
+        },
+        {
+          "center_m": 947.3919910464458,
+          "left_m": 616.8475320189325,
+          "right_m": 1249.2534600171698
+        },
+        {
+          "center_m": 1490.3095630426674,
+          "left_m": 1185.5592197271103,
+          "right_m": 1768.6152002728754
+        },
+        {
+          "center_m": 1990.86043279458,
+          "left_m": 1709.8913552181818,
+          "right_m": 2247.448423233413
+        },
+        {
+          "center_m": 2452.350696018442,
+          "left_m": 2193.3071074362006,
+          "right_m": 2688.915781414033
+        },
+        {
+          "center_m": 2877.8284564626197,
+          "left_m": 2638.9993961105265,
+          "right_m": 3095.933128986505
+        },
+        {
+          "center_m": 3270.1039583723486,
+          "left_m": 3049.911980717766,
+          "right_m": 3471.188780746723
+        },
+        {
+          "center_m": 3631.768147912799,
+          "left_m": 3428.7589037615303,
+          "right_m": 3817.1612682041837
+        },
+        {
+          "center_m": 3965.2097861470706,
+          "left_m": 3778.0424167912242,
+          "right_m": 4136.135710070785
+        },
+        {
+          "center_m": 4272.631226598861,
+          "left_m": 4100.06950755968,
+          "right_m": 4430.218905274621
+        },
+        {
+          "center_m": 4556.062961609274,
+          "left_m": 4396.967137480103,
+          "right_m": 4701.353248186856
+        },
+        {
+          "center_m": 4817.377033565197,
+          "left_m": 4670.69629002443,
+          "right_m": 4951.32955797054
+        },
+        {
+          "center_m": 5058.29939957928,
+          "left_m": 4923.0649228515695,
+          "right_m": 5181.798906788131
+        },
+        {
+          "center_m": 5280.421331289159,
+          "left_m": 5155.739909213228,
+          "right_m": 5394.283524992024
+        },
+        {
+          "center_m": 5485.209925070626,
+          "left_m": 5370.258047509281,
+          "right_m": 5590.1868553259355
+        },
+        {
+          "center_m": 5674.017792083812,
+          "left_m": 5568.036211709864,
+          "right_m": 5770.802822544287
+        },
+        {
+          "center_m": 5848.0919921543,
+          "left_m": 5750.380709686855,
+          "right_m": 5937.324379674616
+        },
+        {
+          "center_m": 6008.582270496696,
+          "left_m": 5918.495911265732,
+          "right_m": 6090.85138737038
+        },
+        {
+          "center_m": 6156.54865168351,
+          "left_m": 6073.492202985334,
+          "right_m": 6232.397878396568
+        },
+        {
+          "center_m": 6292.968441016868,
+          "left_m": 6216.3933221060615,
+          "right_m": 6362.898755229457
+        },
+        {
+          "center_m": 6418.742679546507,
+          "left_m": 6348.143118306984,
+          "right_m": 6483.215965007563
+        },
+        {
+          "center_m": 6534.7020953689025,
+          "left_m": 6469.611787732309,
+          "right_m": 6594.144192618831
+        },
+        {
+          "center_m": 6641.612590515351,
+          "left_m": 6581.601620562544,
+          "right_m": 6696.416109526404
+        },
+        {
+          "center_m": 6740.1802996694305,
+          "left_m": 6684.852300072573,
+          "right_m": 6790.7072130010165
+        },
+        {
+          "center_m": 6831.056254126236,
+          "left_m": 6780.045788176475,
+          "right_m": 6877.640287722741
+        },
+        {
+          "center_m": 6914.840681798446,
+          "left_m": 6867.810829727677,
+          "right_m": 6957.789519220575
+        },
+        {
+          "center_m": 6992.086971670387,
+          "left_m": 6948.727105324983,
+          "right_m": 7031.684286318788
+        },
+        {
+          "center_m": 7063.305328884985,
+          "left_m": 7023.329060053389,
+          "right_m": 7099.812657638815
+        },
+        {
+          "center_m": 7128.966144605124,
+          "left_m": 7092.109433448184,
+          "right_m": 7162.624615250786
+        },
+        {
+          "center_m": 7189.503102907082,
+          "left_m": 7155.522513997484,
+          "right_m": 7220.5350267666445
+        },
+        {
+          "center_m": 7245.316045226789,
+          "left_m": 7213.987139678858,
+          "right_m": 7273.92638550527
+        },
+        {
+          "center_m": 7296.773611278339,
+          "left_m": 7267.8894643483845,
+          "right_m": 7323.15133682816
+        },
+        {
+          "center_m": 7344.215673887797,
+          "left_m": 7317.5855082538665,
+          "right_m": 7368.535007331902
+        },
+        {
+          "center_m": 7387.9555838241695,
+          "left_m": 7363.403509518139,
+          "right_m": 7410.377152281561
+        }
+      ],
+      "adjacent_pairs": [
+        {
+          "previous_center_m": 358.5217926421082,
+          "current_center_m": 947.3919910464458,
+          "signed_intersection_m": 69.08533053905626,
+          "paper_facing_halves_rate": 0.10499999999999987,
+          "previous_full_width_rate": 0.10071733592325996,
+          "current_full_width_rate": 0.10924206665445556,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 947.3919910464458,
+          "current_center_m": 1490.3095630426674,
+          "signed_intersection_m": 63.6942402900595,
+          "paper_facing_halves_rate": 0.10499999999999998,
+          "previous_full_width_rate": 0.10071733592326008,
+          "current_full_width_rate": 0.1092420666544557,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 1490.3095630426674,
+          "current_center_m": 1990.86043279458,
+          "signed_intersection_m": 58.723845054693584,
+          "paper_facing_halves_rate": 0.10499999999999987,
+          "previous_full_width_rate": 0.10071733592326002,
+          "current_full_width_rate": 0.10924206665445556,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 1990.86043279458,
+          "current_center_m": 2452.350696018442,
+          "signed_intersection_m": 54.14131579721243,
+          "paper_facing_halves_rate": 0.10499999999999932,
+          "previous_full_width_rate": 0.10071733592325938,
+          "current_full_width_rate": 0.10924206665445499,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 2452.350696018442,
+          "current_center_m": 2877.8284564626197,
+          "signed_intersection_m": 49.91638530350656,
+          "paper_facing_halves_rate": 0.10499999999999932,
+          "previous_full_width_rate": 0.1007173359232595,
+          "current_full_width_rate": 0.10924206665445498,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 2877.8284564626197,
+          "current_center_m": 3270.1039583723486,
+          "signed_intersection_m": 46.021148268739125,
+          "paper_facing_halves_rate": 0.10499999999999998,
+          "previous_full_width_rate": 0.10071733592326013,
+          "current_full_width_rate": 0.10924206665445568,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 3270.1039583723486,
+          "current_center_m": 3631.768147912799,
+          "signed_intersection_m": 42.42987698519255,
+          "paper_facing_halves_rate": 0.1050000000000001,
+          "previous_full_width_rate": 0.10071733592326013,
+          "current_full_width_rate": 0.10924206665445574,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 3631.768147912799,
+          "current_center_m": 3965.2097861470706,
+          "signed_intersection_m": 39.11885141295943,
+          "paper_facing_halves_rate": 0.10499999999999943,
+          "previous_full_width_rate": 0.10071733592326065,
+          "current_full_width_rate": 0.1092420666544561,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 3965.2097861470706,
+          "current_center_m": 4272.631226598861,
+          "signed_intersection_m": 36.066202511105075,
+          "paper_facing_halves_rate": 0.10500000000000198,
+          "previous_full_width_rate": 0.10071733592326315,
+          "current_full_width_rate": 0.10924206665445893,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 4272.631226598861,
+          "current_center_m": 4556.062961609274,
+          "signed_intersection_m": 33.251767794517946,
+          "paper_facing_halves_rate": 0.10500000000000065,
+          "previous_full_width_rate": 0.10071733592326075,
+          "current_full_width_rate": 0.10924206665445661,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 4556.062961609274,
+          "current_center_m": 4817.377033565197,
+          "signed_intersection_m": 30.656958162426236,
+          "paper_facing_halves_rate": 0.10499999999999843,
+          "previous_full_width_rate": 0.10071733592325856,
+          "current_full_width_rate": 0.10924206665445406,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 4817.377033565197,
+          "current_center_m": 5058.29939957928,
+          "signed_intersection_m": 28.264635118970546,
+          "paper_facing_halves_rate": 0.10499999999999965,
+          "previous_full_width_rate": 0.10071733592325975,
+          "current_full_width_rate": 0.10924206665445509,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 5058.29939957928,
+          "current_center_m": 5280.421331289159,
+          "signed_intersection_m": 26.058997574902605,
+          "paper_facing_halves_rate": 0.10500000000000242,
+          "previous_full_width_rate": 0.10071733592326232,
+          "current_full_width_rate": 0.1092420666544581,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 5280.421331289159,
+          "current_center_m": 5485.209925070626,
+          "signed_intersection_m": 24.025477482742644,
+          "paper_facing_halves_rate": 0.10500000000000265,
+          "previous_full_width_rate": 0.10071733592326272,
+          "current_full_width_rate": 0.1092420666544588,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 5485.209925070626,
+          "current_center_m": 5674.017792083812,
+          "signed_intersection_m": 22.150643616071648,
+          "paper_facing_halves_rate": 0.10499999999999798,
+          "previous_full_width_rate": 0.10071733592325798,
+          "current_full_width_rate": 0.10924206665445346,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 5674.017792083812,
+          "current_center_m": 5848.0919921543,
+          "signed_intersection_m": 20.422112857431785,
+          "paper_facing_halves_rate": 0.1050000000000012,
+          "previous_full_width_rate": 0.10071733592326142,
+          "current_full_width_rate": 0.10924206665445715,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 5848.0919921543,
+          "current_center_m": 6008.582270496696,
+          "signed_intersection_m": 18.828468408883964,
+          "paper_facing_halves_rate": 0.10499999999999765,
+          "previous_full_width_rate": 0.10071733592325798,
+          "current_full_width_rate": 0.10924206665445314,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6008.582270496696,
+          "current_center_m": 6156.54865168351,
+          "signed_intersection_m": 17.35918438504541,
+          "paper_facing_halves_rate": 0.10500000000000098,
+          "previous_full_width_rate": 0.10071733592326096,
+          "current_full_width_rate": 0.1092420666544566,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6156.54865168351,
+          "current_center_m": 6292.968441016868,
+          "signed_intersection_m": 16.004556290506116,
+          "paper_facing_halves_rate": 0.1050000000000022,
+          "previous_full_width_rate": 0.10071733592326251,
+          "current_full_width_rate": 0.1092420666544577,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6292.968441016868,
+          "current_center_m": 6418.742679546507,
+          "signed_intersection_m": 14.75563692247215,
+          "paper_facing_halves_rate": 0.10500000000000365,
+          "previous_full_width_rate": 0.1007173359232632,
+          "current_full_width_rate": 0.10924206665445936,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6418.742679546507,
+          "current_center_m": 6534.7020953689025,
+          "signed_intersection_m": 13.604177275254187,
+          "paper_facing_halves_rate": 0.10500000000000753,
+          "previous_full_width_rate": 0.10071733592326769,
+          "current_full_width_rate": 0.10924206665446419,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6534.7020953689025,
+          "current_center_m": 6641.612590515351,
+          "signed_intersection_m": 12.5425720562871,
+          "paper_facing_halves_rate": 0.10499999999999865,
+          "previous_full_width_rate": 0.10071733592325847,
+          "current_full_width_rate": 0.10924206665445367,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6641.612590515351,
+          "current_center_m": 6740.1802996694305,
+          "signed_intersection_m": 11.563809453831709,
+          "paper_facing_halves_rate": 0.10500000000000964,
+          "previous_full_width_rate": 0.10071733592326983,
+          "current_full_width_rate": 0.10924206665446558,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6740.1802996694305,
+          "current_center_m": 6831.056254126236,
+          "signed_intersection_m": 10.661424824541427,
+          "paper_facing_halves_rate": 0.10499999999999987,
+          "previous_full_width_rate": 0.1007173359232592,
+          "current_full_width_rate": 0.10924206665445563,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6831.056254126236,
+          "current_center_m": 6914.840681798446,
+          "signed_intersection_m": 9.829457995064331,
+          "paper_facing_halves_rate": 0.10500000000000576,
+          "previous_full_width_rate": 0.1007173359232663,
+          "current_full_width_rate": 0.10924206665446182,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6914.840681798446,
+          "current_center_m": 6992.086971670387,
+          "signed_intersection_m": 9.062413895591817,
+          "paper_facing_halves_rate": 0.10500000000000964,
+          "previous_full_width_rate": 0.10071733592326959,
+          "current_full_width_rate": 0.10924206665446659,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6992.086971670387,
+          "current_center_m": 7063.305328884985,
+          "signed_intersection_m": 8.355226265398414,
+          "paper_facing_halves_rate": 0.1049999999999851,
+          "previous_full_width_rate": 0.10071733592324492,
+          "current_full_width_rate": 0.1092420666544396,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7063.305328884985,
+          "current_center_m": 7128.966144605124,
+          "signed_intersection_m": 7.703224190630863,
+          "paper_facing_halves_rate": 0.10500000000000043,
+          "previous_full_width_rate": 0.10071733592326132,
+          "current_full_width_rate": 0.10924206665445574,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7128.966144605124,
+          "current_center_m": 7189.503102907082,
+          "signed_intersection_m": 7.102101253301953,
+          "paper_facing_halves_rate": 0.10499999999999454,
+          "previous_full_width_rate": 0.10071733592325408,
+          "current_full_width_rate": 0.10924206665445008,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7189.503102907082,
+          "current_center_m": 7245.316045226789,
+          "signed_intersection_m": 6.547887087786876,
+          "paper_facing_halves_rate": 0.10500000000000032,
+          "previous_full_width_rate": 0.10071733592326115,
+          "current_full_width_rate": 0.109242066654457,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7245.316045226789,
+          "current_center_m": 7296.773611278339,
+          "signed_intersection_m": 6.03692115688591,
+          "paper_facing_halves_rate": 0.10500000000000376,
+          "previous_full_width_rate": 0.1007173359232638,
+          "current_full_width_rate": 0.10924206665445957,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7296.773611278339,
+          "current_center_m": 7344.215673887797,
+          "signed_intersection_m": 5.565828574293846,
+          "paper_facing_halves_rate": 0.10499999999999832,
+          "previous_full_width_rate": 0.1007173359232584,
+          "current_full_width_rate": 0.10924206665445424,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7344.215673887797,
+          "current_center_m": 7387.9555838241695,
+          "signed_intersection_m": 5.131497813763417,
+          "paper_facing_halves_rate": 0.10499999999998166,
+          "previous_full_width_rate": 0.10071733592324146,
+          "current_full_width_rate": 0.10924206665443495,
+          "within_all_definitions": true
+        }
+      ],
+      "facing_overlap": 0.105,
+      "line_count": 34,
+      "total_length_m": 125936
+    },
+    {
+      "target_m": [
+        0,
+        7408
+      ],
+      "overlap_range": [
+        0.1,
+        0.2
+      ],
+      "fully_covered": true,
+      "uncovered_intervals_m": [],
+      "uncovered_length_m": 0,
+      "overlap_satisfied": true,
+      "strips": [
+        {
+          "center_m": 358.5217926421082,
+          "left_m": 5.684341886080802e-14,
+          "right_m": 685.9328625579888
+        },
+        {
+          "center_m": 937.9187255393806,
+          "left_m": 606.9241898901789,
+          "right_m": 1240.191215740265
+        },
+        {
+          "center_m": 1472.8296366659033,
+          "left_m": 1167.2488187684664,
+          "right_m": 1751.8936840596539
+        },
+        {
+          "center_m": 1966.6701570349296,
+          "left_m": 1684.551794918423,
+          "right_m": 2224.307702866593
+        },
+        {
+          "center_m": 2422.5936659511012,
+          "left_m": 2162.136315287115,
+          "right_m": 2660.4498342467846
+        },
+        {
+          "center_m": 2843.5114266628075,
+          "left_m": 2603.0519577860973,
+          "right_m": 3063.1050290381
+        },
+        {
+          "center_m": 3232.1111760017543,
+          "left_m": 3010.1141541282436,
+          "right_m": 3434.844409912313
+        },
+        {
+          "center_m": 3590.874286712403,
+          "left_m": 3385.922167542679,
+          "right_m": 3778.0416890741108
+        },
+        {
+          "center_m": 3922.0916120599704,
+          "left_m": 3732.875690163079,
+          "right_m": 4094.8883254112934
+        },
+        {
+          "center_m": 4227.87811389147,
+          "left_m": 4053.190166070634,
+          "right_m": 4387.4075178809335
+        },
+        {
+          "center_m": 4510.186367556114,
+          "left_m": 4348.910937835755,
+          "right_m": 4657.467124485155
+        },
+        {
+          "center_m": 4770.819029919666,
+          "left_m": 4621.9263068901255,
+          "right_m": 4906.791589329616
+        },
+        {
+          "center_m": 5011.440350086263,
+          "left_m": 4873.979591125079,
+          "right_m": 5136.97295392398
+        },
+        {
+          "center_m": 5233.5867963285,
+          "left_m": 5106.680256709129,
+          "right_m": 5349.481023036158
+        },
+        {
+          "center_m": 5438.676867083194,
+          "left_m": 5321.514195205972,
+          "right_m": 5545.672750013573
+        },
+        {
+          "center_m": 5628.020148660156,
+          "left_m": 5519.853211616714,
+          "right_m": 5726.800901500667
+        },
+        {
+          "center_m": 5802.825677501255,
+          "left_m": 5702.963783931426,
+          "right_m": 5894.022056880519
+        },
+        {
+          "center_m": 5964.209660386309,
+          "left_m": 5872.015150123467,
+          "right_m": 6048.403993520364
+        },
+        {
+          "center_m": 6113.202601882562,
+          "left_m": 6028.08677422542,
+          "right_m": 6190.93250497891
+        },
+        {
+          "center_m": 6250.75588454951,
+          "left_m": 6172.175239160691,
+          "right_m": 6322.517695712594
+        },
+        {
+          "center_m": 6377.7478439164515,
+          "left_m": 6305.200610344375,
+          "right_m": 6443.999792475076
+        },
+        {
+          "center_m": 6494.989377024044,
+          "left_m": 6428.012310687677,
+          "right_m": 6556.1545095182555
+        },
+        {
+          "center_m": 6603.229120342761,
+          "left_m": 6541.394544520249,
+          "right_m": 6659.698001853831
+        },
+        {
+          "center_m": 6703.158230131441,
+          "left_m": 6646.071305064465,
+          "right_m": 6755.291438204079
+        },
+        {
+          "center_m": 6795.414795760522,
+          "left_m": 6742.710997436478,
+          "right_m": 6843.545222842067
+        },
+        {
+          "center_m": 6880.587914180886,
+          "left_m": 6831.930706693836,
+          "right_m": 6925.022893279513
+        },
+        {
+          "center_m": 6959.221451555517,
+          "left_m": 6914.300138182972,
+          "right_m": 7000.244718690672
+        },
+        {
+          "center_m": 7031.817516073558,
+          "left_m": 6990.345255347303,
+          "right_m": 7069.691022049716
+        },
+        {
+          "center_m": 7098.839664122157,
+          "left_m": 7060.551638224907,
+          "right_m": 7133.805247194814
+        },
+        {
+          "center_m": 7160.715860288851,
+          "left_m": 7125.367584081174,
+          "right_m": 7192.996790403442
+        },
+        {
+          "center_m": 7217.841210095351,
+          "left_m": 7185.206969975283,
+          "right_m": 7247.643614559699
+        },
+        {
+          "center_m": 7270.580482912375,
+          "left_m": 7240.451895539196,
+          "right_m": 7298.094662606199
+        },
+        {
+          "center_m": 7319.27044116541,
+          "left_m": 7291.455122844422,
+          "right_m": 7344.672085691429
+        },
+        {
+          "center_m": 7364.221990704354,
+          "left_m": 7338.542328936119,
+          "right_m": 7387.673300240253
+        },
+        {
+          "center_m": 7405.722166068051,
+          "left_m": 7382.014185417931,
+          "right_m": 7427.372887082796
+        }
+      ],
+      "adjacent_pairs": [
+        {
+          "previous_center_m": 358.5217926421082,
+          "current_center_m": 937.9187255393806,
+          "signed_intersection_m": 79.00867266780983,
+          "paper_facing_halves_rate": 0.12,
+          "previous_full_width_rate": 0.1151842650797773,
+          "current_full_width_rate": 0.1247635980442058,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 937.9187255393806,
+          "current_center_m": 1472.8296366659033,
+          "signed_intersection_m": 72.94239697179864,
+          "paper_facing_halves_rate": 0.1200000000000001,
+          "previous_full_width_rate": 0.11518426507977751,
+          "current_full_width_rate": 0.12476359804420595,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 1472.8296366659033,
+          "current_center_m": 1966.6701570349296,
+          "signed_intersection_m": 67.34188914123092,
+          "paper_facing_halves_rate": 0.1200000000000001,
+          "previous_full_width_rate": 0.11518426507977747,
+          "current_full_width_rate": 0.12476359804420596,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 1966.6701570349296,
+          "current_center_m": 2422.5936659511012,
+          "signed_intersection_m": 62.17138757947805,
+          "paper_facing_halves_rate": 0.12000000000000022,
+          "previous_full_width_rate": 0.1151842650797776,
+          "current_full_width_rate": 0.124763598044206,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 2422.5936659511012,
+          "current_center_m": 2843.5114266628075,
+          "signed_intersection_m": 57.39787646068726,
+          "paper_facing_halves_rate": 0.1200000000000001,
+          "previous_full_width_rate": 0.11518426507977737,
+          "current_full_width_rate": 0.12476359804420588,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 2843.5114266628075,
+          "current_center_m": 3232.1111760017543,
+          "signed_intersection_m": 52.9908749098563,
+          "paper_facing_halves_rate": 0.11999999999999988,
+          "previous_full_width_rate": 0.1151842650797772,
+          "current_full_width_rate": 0.12476359804420568,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 3232.1111760017543,
+          "current_center_m": 3590.874286712403,
+          "signed_intersection_m": 48.922242369634205,
+          "paper_facing_halves_rate": 0.12000000000000066,
+          "previous_full_width_rate": 0.1151842650797781,
+          "current_full_width_rate": 0.12476359804420664,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 3590.874286712403,
+          "current_center_m": 3922.0916120599704,
+          "signed_intersection_m": 45.16599891103169,
+          "paper_facing_halves_rate": 0.11999999999999944,
+          "previous_full_width_rate": 0.11518426507977678,
+          "current_full_width_rate": 0.12476359804420523,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 3922.0916120599704,
+          "current_center_m": 4227.87811389147,
+          "signed_intersection_m": 41.69815934065946,
+          "paper_facing_halves_rate": 0.120000000000001,
+          "previous_full_width_rate": 0.11518426507977843,
+          "current_full_width_rate": 0.12476359804420678,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 4227.87811389147,
+          "current_center_m": 4510.186367556114,
+          "signed_intersection_m": 38.496580045178234,
+          "paper_facing_halves_rate": 0.11999999999999855,
+          "previous_full_width_rate": 0.11518426507977582,
+          "current_full_width_rate": 0.12476359804420438,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 4510.186367556114,
+          "current_center_m": 4770.819029919666,
+          "signed_intersection_m": 35.540817595029694,
+          "paper_facing_halves_rate": 0.11999999999999988,
+          "previous_full_width_rate": 0.1151842650797772,
+          "current_full_width_rate": 0.12476359804420568,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 4770.819029919666,
+          "current_center_m": 5011.440350086263,
+          "signed_intersection_m": 32.811998204536394,
+          "paper_facing_halves_rate": 0.12000000000000144,
+          "previous_full_width_rate": 0.1151842650797791,
+          "current_full_width_rate": 0.12476359804420735,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 5011.440350086263,
+          "current_center_m": 5233.5867963285,
+          "signed_intersection_m": 30.292697214850705,
+          "paper_facing_halves_rate": 0.12000000000000055,
+          "previous_full_width_rate": 0.11518426507977779,
+          "current_full_width_rate": 0.12476359804420623,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 5233.5867963285,
+          "current_center_m": 5438.676867083194,
+          "signed_intersection_m": 27.96682783018605,
+          "paper_facing_halves_rate": 0.12000000000000177,
+          "previous_full_width_rate": 0.11518426507977919,
+          "current_full_width_rate": 0.12476359804420781,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 5438.676867083194,
+          "current_center_m": 5628.020148660156,
+          "signed_intersection_m": 25.81953839685866,
+          "paper_facing_halves_rate": 0.12000000000000088,
+          "previous_full_width_rate": 0.11518426507977805,
+          "current_full_width_rate": 0.12476359804420674,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 5628.020148660156,
+          "current_center_m": 5802.825677501255,
+          "signed_intersection_m": 23.837117569240945,
+          "paper_facing_halves_rate": 0.12000000000000088,
+          "previous_full_width_rate": 0.11518426507977805,
+          "current_full_width_rate": 0.1247635980442069,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 5802.825677501255,
+          "current_center_m": 5964.209660386309,
+          "signed_intersection_m": 22.006906757052093,
+          "paper_facing_halves_rate": 0.11999999999999644,
+          "previous_full_width_rate": 0.11518426507977404,
+          "current_full_width_rate": 0.12476359804420177,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 5964.209660386309,
+          "current_center_m": 6113.202601882562,
+          "signed_intersection_m": 20.317219294943243,
+          "paper_facing_halves_rate": 0.11999999999999844,
+          "previous_full_width_rate": 0.11518426507977589,
+          "current_full_width_rate": 0.12476359804420491,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6113.202601882562,
+          "current_center_m": 6250.75588454951,
+          "signed_intersection_m": 18.75726581821982,
+          "paper_facing_halves_rate": 0.11999999999999811,
+          "previous_full_width_rate": 0.115184265079776,
+          "current_full_width_rate": 0.1247635980442035,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6250.75588454951,
+          "current_center_m": 6377.7478439164515,
+          "signed_intersection_m": 17.317085368219523,
+          "paper_facing_halves_rate": 0.120000000000001,
+          "previous_full_width_rate": 0.1151842650797784,
+          "current_full_width_rate": 0.1247635980442071,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6377.7478439164515,
+          "current_center_m": 6494.989377024044,
+          "signed_intersection_m": 15.987481787398792,
+          "paper_facing_halves_rate": 0.11999999999999866,
+          "previous_full_width_rate": 0.1151842650797758,
+          "current_full_width_rate": 0.12476359804420441,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6494.989377024044,
+          "current_center_m": 6603.229120342761,
+          "signed_intersection_m": 14.75996499800658,
+          "paper_facing_halves_rate": 0.11999999999999789,
+          "previous_full_width_rate": 0.11518426507977511,
+          "current_full_width_rate": 0.1247635980442036,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6603.229120342761,
+          "current_center_m": 6703.158230131441,
+          "signed_intersection_m": 13.626696789365269,
+          "paper_facing_halves_rate": 0.11999999999999866,
+          "previous_full_width_rate": 0.1151842650797762,
+          "current_full_width_rate": 0.12476359804420466,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6703.158230131441,
+          "current_center_m": 6795.414795760522,
+          "signed_intersection_m": 12.58044076760143,
+          "paper_facing_halves_rate": 0.11999999999999589,
+          "previous_full_width_rate": 0.11518426507977371,
+          "current_full_width_rate": 0.12476359804420178,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6795.414795760522,
+          "current_center_m": 6880.587914180886,
+          "signed_intersection_m": 11.614516148230905,
+          "paper_facing_halves_rate": 0.11999999999999433,
+          "previous_full_width_rate": 0.11518426507977184,
+          "current_full_width_rate": 0.12476359804419922,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6880.587914180886,
+          "current_center_m": 6959.221451555517,
+          "signed_intersection_m": 10.722755096540823,
+          "paper_facing_halves_rate": 0.12000000000000288,
+          "previous_full_width_rate": 0.11518426507977947,
+          "current_full_width_rate": 0.12476359804420838,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6959.221451555517,
+          "current_center_m": 7031.817516073558,
+          "signed_intersection_m": 9.899463343369462,
+          "paper_facing_halves_rate": 0.12000000000000222,
+          "previous_full_width_rate": 0.11518426507978025,
+          "current_full_width_rate": 0.1247635980442091,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7031.817516073558,
+          "current_center_m": 7098.839664122157,
+          "signed_intersection_m": 9.139383824808647,
+          "paper_facing_halves_rate": 0.11999999999999666,
+          "previous_full_width_rate": 0.11518426507977385,
+          "current_full_width_rate": 0.12476359804420233,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7098.839664122157,
+          "current_center_m": 7160.715860288851,
+          "signed_intersection_m": 8.437663113640156,
+          "paper_facing_halves_rate": 0.12000000000000055,
+          "previous_full_width_rate": 0.11518426507977785,
+          "current_full_width_rate": 0.12476359804420625,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7160.715860288851,
+          "current_center_m": 7217.841210095351,
+          "signed_intersection_m": 7.789820428159146,
+          "paper_facing_halves_rate": 0.1200000000000011,
+          "previous_full_width_rate": 0.1151842650797782,
+          "current_full_width_rate": 0.12476359804420753,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7217.841210095351,
+          "current_center_m": 7270.580482912375,
+          "signed_intersection_m": 7.191719020503115,
+          "paper_facing_halves_rate": 0.119999999999997,
+          "previous_full_width_rate": 0.11518426507977539,
+          "current_full_width_rate": 0.12476359804420233,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7270.580482912375,
+          "current_center_m": 7319.27044116541,
+          "signed_intersection_m": 6.639539761777087,
+          "paper_facing_halves_rate": 0.11999999999999345,
+          "previous_full_width_rate": 0.1151842650797701,
+          "current_full_width_rate": 0.12476359804419873,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7319.27044116541,
+          "current_center_m": 7364.221990704354,
+          "signed_intersection_m": 6.129756755310154,
+          "paper_facing_halves_rate": 0.119999999999995,
+          "previous_full_width_rate": 0.11518426507977347,
+          "current_full_width_rate": 0.12476359804419955,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7364.221990704354,
+          "current_center_m": 7405.722166068051,
+          "signed_intersection_m": 5.659114822322408,
+          "paper_facing_halves_rate": 0.12000000000000155,
+          "previous_full_width_rate": 0.115184265079778,
+          "current_full_width_rate": 0.12476359804420814,
+          "within_all_definitions": true
+        }
+      ],
+      "facing_overlap": 0.12,
+      "line_count": 35,
+      "total_length_m": 129640
+    },
+    {
+      "target_m": [
+        0,
+        7408
+      ],
+      "overlap_range": [
+        0.1,
+        0.2
+      ],
+      "fully_covered": true,
+      "uncovered_intervals_m": [],
+      "uncovered_length_m": 0,
+      "overlap_satisfied": true,
+      "strips": [
+        {
+          "center_m": 358.5217926421082,
+          "left_m": 5.684341886080802e-14,
+          "right_m": 685.9328625579888
+        },
+        {
+          "center_m": 918.9332599499301,
+          "left_m": 587.0367212683728,
+          "right_m": 1222.0294818847058
+        },
+        {
+          "center_m": 1437.726343255163,
+          "left_m": 1130.4777613014292,
+          "right_m": 1718.3134345063468
+        },
+        {
+          "center_m": 1917.9917892466783,
+          "left_m": 1633.560708743138,
+          "right_m": 2177.74136736495
+        },
+        {
+          "center_m": 2362.590813474075,
+          "left_m": 2099.2827160307033,
+          "right_m": 2603.050355043721
+        },
+        {
+          "center_m": 2774.172146242798,
+          "left_m": 2530.4183551433584,
+          "right_m": 2996.774206083515
+        },
+        {
+          "center_m": 3155.1878126133047,
+          "left_m": 2929.5361473122493,
+          "right_m": 3361.258558327415
+        },
+        {
+          "center_m": 3507.907740514741,
+          "left_m": 3299.013865168338,
+          "right_m": 3698.674853224998
+        },
+        {
+          "center_m": 3834.433284002012,
+          "left_m": 3641.05269849195,
+          "right_m": 4011.033272349199
+        },
+        {
+          "center_m": 4136.709742222006,
+          "left_m": 3957.690367957435,
+          "right_m": 4300.194713195987
+        },
+        {
+          "center_m": 4416.537948671606,
+          "left_m": 4250.813264998998,
+          "right_m": 4567.8818756135415
+        },
+        {
+          "center_m": 4675.584999791316,
+          "left_m": 4522.167690121828,
+          "right_m": 4815.68952490911
+        },
+        {
+          "center_m": 4915.394186810867,
+          "left_m": 4773.370256611542,
+          "right_m": 5045.093992776742
+        },
+        {
+          "center_m": 5137.394190016472,
+          "left_m": 5005.917521622811,
+          "right_m": 5257.461972648349
+        },
+        {
+          "center_m": 5342.9075902152335,
+          "left_m": 5221.194902025039,
+          "right_m": 5454.0586618670195
+        },
+        {
+          "center_m": 5533.158748104361,
+          "left_m": 5420.484928121879,
+          "right_m": 5636.055299190167
+        },
+        {
+          "center_m": 5709.281098487096,
+          "left_m": 5604.9748844167425,
+          "right_m": 5804.536142527724
+        },
+        {
+          "center_m": 5872.323902791162,
+          "left_m": 5775.763882944654,
+          "right_m": 5960.504928485751
+        },
+        {
+          "center_m": 6023.258500118339,
+          "left_m": 5933.8694113103675,
+          "right_m": 6104.890852198647
+        },
+        {
+          "center_m": 6162.984094066239,
+          "left_m": 6080.233394443135,
+          "right_m": 6238.554103075243
+        },
+        {
+          "center_m": 6292.333109797692,
+          "left_m": 6215.727806181457,
+          "right_m": 6362.290989438386
+        },
+        {
+          "center_m": 6412.076153272849,
+          "left_m": 6341.1598641192395,
+          "right_m": 6476.838682588397
+        },
+        {
+          "center_m": 6522.926602188998,
+          "left_m": 6457.276838662017,
+          "right_m": 6582.879608553523
+        },
+        {
+          "center_m": 6625.544855978923,
+          "left_m": 6564.770504943536,
+          "right_m": 6681.045513691528
+        },
+        {
+          "center_m": 6720.542270187493,
+          "left_m": 6664.2812641253095,
+          "right_m": 6771.921228363549
+        },
+        {
+          "center_m": 6808.4847986658015,
+          "left_m": 6756.401958632083,
+          "right_m": 6856.048151102566
+        },
+        {
+          "center_m": 6889.896365281478,
+          "left_m": 6841.6814040527415,
+          "right_m": 6933.927474033664
+        },
+        {
+          "center_m": 6965.261985232394,
+          "left_m": 6920.627658748209,
+          "right_m": 7006.023168761759
+        },
+        {
+          "center_m": 7035.030654559194,
+          "left_m": 6993.711050645265,
+          "right_m": 7072.764750515432
+        },
+        {
+          "center_m": 7099.6180250711395,
+          "left_m": 7061.366979248618,
+          "right_m": 7134.549837014451
+        },
+        {
+          "center_m": 7159.408880621326,
+          "left_m": 7123.998509564419,
+          "right_m": 7191.746517305614
+        },
+        {
+          "center_m": 7214.759429483847,
+          "left_m": 7181.978773388699,
+          "right_m": 7244.695544679419
+        },
+        {
+          "center_m": 7265.999426489925,
+          "left_m": 7235.653192266582,
+          "right_m": 7293.712366732029
+        },
+        {
+          "center_m": 7313.434137565765,
+          "left_m": 7285.341535365705,
+          "right_m": 7339.089004666758
+        },
+        {
+          "center_m": 7357.346158376023,
+          "left_m": 7331.339824523772,
+          "right_m": 7381.09579303116
+        },
+        {
+          "center_m": 7397.9970979075715,
+          "left_m": 7373.92209781971,
+          "right_m": 7419.982990254317
+        }
+      ],
+      "adjacent_pairs": [
+        {
+          "previous_center_m": 358.5217926421082,
+          "current_center_m": 918.9332599499301,
+          "signed_intersection_m": 98.89614128961591,
+          "paper_facing_halves_rate": 0.15000000000000036,
+          "previous_full_width_rate": 0.14417758163796277,
+          "current_full_width_rate": 0.15574373035942318,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 918.9332599499301,
+          "current_center_m": 1437.726343255163,
+          "signed_intersection_m": 91.55172058327662,
+          "paper_facing_halves_rate": 0.15000000000000024,
+          "previous_full_width_rate": 0.14417758163796265,
+          "current_full_width_rate": 0.15574373035942307,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 1437.726343255163,
+          "current_center_m": 1917.9917892466783,
+          "signed_intersection_m": 84.75272576320867,
+          "paper_facing_halves_rate": 0.15000000000000013,
+          "previous_full_width_rate": 0.14417758163796254,
+          "current_full_width_rate": 0.15574373035942302,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 1917.9917892466783,
+          "current_center_m": 2362.590813474075,
+          "signed_intersection_m": 78.4586513342465,
+          "paper_facing_halves_rate": 0.15000000000000013,
+          "previous_full_width_rate": 0.14417758163796257,
+          "current_full_width_rate": 0.15574373035942285,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 2362.590813474075,
+          "current_center_m": 2774.172146242798,
+          "signed_intersection_m": 72.63199990036264,
+          "paper_facing_halves_rate": 0.14999999999999947,
+          "previous_full_width_rate": 0.14417758163796182,
+          "current_full_width_rate": 0.15574373035942227,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 2774.172146242798,
+          "current_center_m": 3155.1878126133047,
+          "signed_intersection_m": 67.23805877126551,
+          "paper_facing_halves_rate": 0.14999999999999936,
+          "previous_full_width_rate": 0.14417758163796174,
+          "current_full_width_rate": 0.15574373035942202,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 3155.1878126133047,
+          "current_center_m": 3507.907740514741,
+          "signed_intersection_m": 62.24469315907709,
+          "paper_facing_halves_rate": 0.15000000000000024,
+          "previous_full_width_rate": 0.14417758163796263,
+          "current_full_width_rate": 0.15574373035942304,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 3507.907740514741,
+          "current_center_m": 3834.433284002012,
+          "signed_intersection_m": 57.622154733047864,
+          "paper_facing_halves_rate": 0.15000000000000002,
+          "previous_full_width_rate": 0.14417758163796243,
+          "current_full_width_rate": 0.15574373035942288,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 3834.433284002012,
+          "current_center_m": 4136.709742222006,
+          "signed_intersection_m": 53.34290439176402,
+          "paper_facing_halves_rate": 0.1500000000000009,
+          "previous_full_width_rate": 0.14417758163796343,
+          "current_full_width_rate": 0.1557437303594237,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 4136.709742222006,
+          "current_center_m": 4416.537948671606,
+          "signed_intersection_m": 49.38144819698846,
+          "paper_facing_halves_rate": 0.1500000000000007,
+          "previous_full_width_rate": 0.14417758163796315,
+          "current_full_width_rate": 0.15574373035942354,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 4416.537948671606,
+          "current_center_m": 4675.584999791316,
+          "signed_intersection_m": 45.71418549171358,
+          "paper_facing_halves_rate": 0.15000000000000013,
+          "previous_full_width_rate": 0.14417758163796232,
+          "current_full_width_rate": 0.15574373035942288,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 4675.584999791316,
+          "current_center_m": 4915.394186810867,
+          "signed_intersection_m": 42.31926829756867,
+          "paper_facing_halves_rate": 0.15000000000000246,
+          "previous_full_width_rate": 0.14417758163796496,
+          "current_full_width_rate": 0.15574373035942551,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 4915.394186810867,
+          "current_center_m": 5137.394190016472,
+          "signed_intersection_m": 39.176471153930834,
+          "paper_facing_halves_rate": 0.1500000000000017,
+          "previous_full_width_rate": 0.14417758163796415,
+          "current_full_width_rate": 0.15574373035942476,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 5137.394190016472,
+          "current_center_m": 5342.9075902152335,
+          "signed_intersection_m": 36.267070623310246,
+          "paper_facing_halves_rate": 0.1499999999999977,
+          "previous_full_width_rate": 0.14417758163795996,
+          "current_full_width_rate": 0.15574373035942013,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 5342.9075902152335,
+          "current_center_m": 5533.158748104361,
+          "signed_intersection_m": 33.57373374514009,
+          "paper_facing_halves_rate": 0.15000000000000002,
+          "previous_full_width_rate": 0.14417758163796246,
+          "current_full_width_rate": 0.1557437303594229,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 5533.158748104361,
+          "current_center_m": 5709.281098487096,
+          "signed_intersection_m": 31.08041477342431,
+          "paper_facing_halves_rate": 0.15000000000000202,
+          "previous_full_width_rate": 0.1441775816379645,
+          "current_full_width_rate": 0.15574373035942476,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 5709.281098487096,
+          "current_center_m": 5872.323902791162,
+          "signed_intersection_m": 28.77225958307008,
+          "paper_facing_halves_rate": 0.1499999999999979,
+          "previous_full_width_rate": 0.14417758163796002,
+          "current_full_width_rate": 0.15574373035942055,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 5872.323902791162,
+          "current_center_m": 6023.258500118339,
+          "signed_intersection_m": 26.63551717538394,
+          "paper_facing_halves_rate": 0.14999999999999925,
+          "previous_full_width_rate": 0.14417758163796163,
+          "current_full_width_rate": 0.1557437303594216,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6023.258500118339,
+          "current_center_m": 6162.984094066239,
+          "signed_intersection_m": 24.65745775551204,
+          "paper_facing_halves_rate": 0.15000000000000135,
+          "previous_full_width_rate": 0.14417758163796346,
+          "current_full_width_rate": 0.1557437303594244,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6162.984094066239,
+          "current_center_m": 6292.333109797692,
+          "signed_intersection_m": 22.826296893786093,
+          "paper_facing_halves_rate": 0.1500000000000018,
+          "previous_full_width_rate": 0.1441775816379641,
+          "current_full_width_rate": 0.15574373035942485,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6292.333109797692,
+          "current_center_m": 6412.076153272849,
+          "signed_intersection_m": 21.131125319146122,
+          "paper_facing_halves_rate": 0.1500000000000039,
+          "previous_full_width_rate": 0.14417758163796665,
+          "current_full_width_rate": 0.15574373035942685,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6412.076153272849,
+          "current_center_m": 6522.926602188998,
+          "signed_intersection_m": 19.56184392637988,
+          "paper_facing_halves_rate": 0.15000000000000457,
+          "previous_full_width_rate": 0.14417758163796693,
+          "current_full_width_rate": 0.15574373035942723,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6522.926602188998,
+          "current_center_m": 6625.544855978923,
+          "signed_intersection_m": 18.10910360998696,
+          "paper_facing_halves_rate": 0.15000000000000147,
+          "previous_full_width_rate": 0.1441775816379637,
+          "current_full_width_rate": 0.15574373035942463,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6625.544855978923,
+          "current_center_m": 6720.542270187493,
+          "signed_intersection_m": 16.764249566218496,
+          "paper_facing_halves_rate": 0.15000000000000158,
+          "previous_full_width_rate": 0.14417758163796351,
+          "current_full_width_rate": 0.15574373035942493,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6720.542270187493,
+          "current_center_m": 6808.4847986658015,
+          "signed_intersection_m": 15.51926973146601,
+          "paper_facing_halves_rate": 0.1499999999999987,
+          "previous_full_width_rate": 0.1441775816379615,
+          "current_full_width_rate": 0.1557437303594215,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6808.4847986658015,
+          "current_center_m": 6889.896365281478,
+          "signed_intersection_m": 14.36674704982488,
+          "paper_facing_halves_rate": 0.14999999999999625,
+          "previous_full_width_rate": 0.14417758163795857,
+          "current_full_width_rate": 0.15574373035941877,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6889.896365281478,
+          "current_center_m": 6965.261985232394,
+          "signed_intersection_m": 13.299815285455225,
+          "paper_facing_halves_rate": 0.14999999999999492,
+          "previous_full_width_rate": 0.14417758163795769,
+          "current_full_width_rate": 0.1557437303594171,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6965.261985232394,
+          "current_center_m": 7035.030654559194,
+          "signed_intersection_m": 12.312118116494275,
+          "paper_facing_halves_rate": 0.15000000000000224,
+          "previous_full_width_rate": 0.14417758163796526,
+          "current_full_width_rate": 0.15574373035942538,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7035.030654559194,
+          "current_center_m": 7099.6180250711395,
+          "signed_intersection_m": 11.397771266813834,
+          "paper_facing_halves_rate": 0.1499999999999988,
+          "previous_full_width_rate": 0.14417758163796002,
+          "current_full_width_rate": 0.15574373035942118,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7099.6180250711395,
+          "current_center_m": 7159.408880621326,
+          "signed_intersection_m": 10.551327450032659,
+          "paper_facing_halves_rate": 0.14999999999999747,
+          "previous_full_width_rate": 0.1441775816379599,
+          "current_full_width_rate": 0.15574373035941994,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7159.408880621326,
+          "current_center_m": 7214.759429483847,
+          "signed_intersection_m": 9.767743916915606,
+          "paper_facing_halves_rate": 0.1500000000000007,
+          "previous_full_width_rate": 0.14417758163796346,
+          "current_full_width_rate": 0.15574373035942396,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7214.759429483847,
+          "current_center_m": 7265.999426489925,
+          "signed_intersection_m": 9.042352412837317,
+          "paper_facing_halves_rate": 0.1500000000000008,
+          "previous_full_width_rate": 0.14417758163796354,
+          "current_full_width_rate": 0.1557437303594223,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7265.999426489925,
+          "current_center_m": 7313.434137565765,
+          "signed_intersection_m": 8.370831366324637,
+          "paper_facing_halves_rate": 0.14999999999999913,
+          "previous_full_width_rate": 0.1441775816379602,
+          "current_full_width_rate": 0.1557437303594227,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7313.434137565765,
+          "current_center_m": 7357.346158376023,
+          "signed_intersection_m": 7.749180142986006,
+          "paper_facing_halves_rate": 0.14999999999998948,
+          "previous_full_width_rate": 0.14417758163795266,
+          "current_full_width_rate": 0.1557437303594131,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7357.346158376023,
+          "current_center_m": 7397.9970979075715,
+          "signed_intersection_m": 7.17369521144974,
+          "paper_facing_halves_rate": 0.14999999999999902,
+          "previous_full_width_rate": 0.14417758163796232,
+          "current_full_width_rate": 0.15574373035942124,
+          "within_all_definitions": true
+        }
+      ],
+      "facing_overlap": 0.15,
+      "line_count": 36,
+      "total_length_m": 133344
+    },
+    {
+      "target_m": [
+        0,
+        7408
+      ],
+      "overlap_range": [
+        0.1,
+        0.2
+      ],
+      "fully_covered": true,
+      "uncovered_intervals_m": [],
+      "uncovered_length_m": 0,
+      "overlap_satisfied": true,
+      "strips": [
+        {
+          "center_m": 358.5217926421082,
+          "left_m": 5.684341886080802e-14,
+          "right_m": 685.9328625579888
+        },
+        {
+          "center_m": 899.8957035507372,
+          "left_m": 567.09468699268,
+          "right_m": 1203.8179173089882
+        },
+        {
+          "center_m": 1402.4308118370443,
+          "left_m": 1093.5053325632134,
+          "right_m": 1684.549287670643
+        },
+        {
+          "center_m": 1868.9134589902305,
+          "left_m": 1582.1506578077485,
+          "right_m": 2130.792422763447
+        },
+        {
+          "center_m": 2301.9300910760994,
+          "left_m": 2035.739991329964,
+          "right_m": 2545.0215492455545
+        },
+        {
+          "center_m": 2703.881599470398,
+          "left_m": 2456.7882913053427,
+          "right_m": 2929.533389837669
+        },
+        {
+          "center_m": 3076.996632771043,
+          "left_m": 2847.630089844845,
+          "right_m": 3286.459897664786
+        },
+        {
+          "center_m": 3423.3439536980663,
+          "left_m": 3210.4324369734877,
+          "right_m": 3617.7800770212425
+        },
+        {
+          "center_m": 3744.843909494994,
+          "left_m": 3547.2069159926486,
+          "right_m": 3925.3309561001515
+        },
+        {
+          "center_m": 4043.2790794301045,
+          "left_m": 3859.820796846103,
+          "right_m": 4210.817772526283
+        },
+        {
+          "center_m": 4320.304158433395,
+          "left_m": 4150.007389330439,
+          "right_m": 4475.823428166813
+        },
+        {
+          "center_m": 4577.455131669779,
+          "left_m": 4419.375653553948,
+          "right_m": 4721.817265642801
+        },
+        {
+          "center_m": 4816.157790917587,
+          "left_m": 4669.419120929868,
+          "right_m": 4950.163215203389
+        },
+        {
+          "center_m": 5037.735639972031,
+          "left_m": 4901.524175167047,
+          "right_m": 5162.127357133637
+        },
+        {
+          "center_m": 5243.41723290571,
+          "left_m": 5116.977739172586,
+          "right_m": 5358.884941626306
+        },
+        {
+          "center_m": 5434.342985873646,
+          "left_m": 5316.974410487002,
+          "right_m": 5541.526905039766
+        },
+        {
+          "center_m": 5611.571500231406,
+          "left_m": 5502.623084814892,
+          "right_m": 5711.065918671876
+        },
+        {
+          "center_m": 5776.085432025268,
+          "left_m": 5674.953104375662,
+          "right_m": 5868.4420035876965
+        },
+        {
+          "center_m": 5928.796940398245,
+          "left_m": 5834.91996516436,
+          "right_m": 6014.52774263284
+        },
+        {
+          "center_m": 6070.55274512104,
+          "left_m": 5983.410614766861,
+          "right_m": 6150.133118530843
+        },
+        {
+          "center_m": 6202.138821289763,
+          "left_m": 6121.248370103563,
+          "right_m": 6276.010004889724
+        },
+        {
+          "center_m": 6324.284757220503,
+          "left_m": 6249.197482368342,
+          "right_m": 6392.856335018439
+        },
+        {
+          "center_m": 6437.667799703402,
+          "left_m": 6367.967374473412,
+          "right_m": 6501.319971667531
+        },
+        {
+          "center_m": 6542.916609045439,
+          "left_m": 6478.216574494889,
+          "right_m": 6602.002299150019
+        },
+        {
+          "center_m": 6640.614744722006,
+          "left_m": 6580.556366928334,
+          "right_m": 6695.461557759305
+        },
+        {
+          "center_m": 6731.303900963746,
+          "left_m": 6675.554181998922,
+          "right_m": 6782.215938972
+        },
+        {
+          "center_m": 6815.486910218561,
+          "left_m": 6763.736741818505,
+          "right_m": 6862.746458597266
+        },
+        {
+          "center_m": 6893.630531141727,
+          "left_m": 6845.592980833644,
+          "right_m": 6937.499623803014
+        },
+        {
+          "center_m": 6966.168036572304,
+          "left_m": 6921.576756757278,
+          "right_m": 7006.889908806525
+        },
+        {
+          "center_m": 7033.50161584507,
+          "left_m": 6992.109367014943,
+          "right_m": 7071.3020529560845
+        },
+        {
+          "center_m": 7096.004604757764,
+          "left_m": 7057.581884658176,
+          "right_m": 7131.093193945542
+        },
+        {
+          "center_m": 7154.023555557852,
+          "left_m": 7118.357326696742,
+          "right_m": 7186.594847989544
+        },
+        {
+          "center_m": 7207.880158425995,
+          "left_m": 7174.772666872146,
+          "right_m": 7238.114747938655
+        },
+        {
+          "center_m": 7257.8730251100405,
+          "left_m": 7227.1407040324,
+          "right_m": 7285.9385495259385
+        },
+        {
+          "center_m": 7304.279344598993,
+          "left_m": 7275.751796467387,
+          "right_m": 7330.3314152053945
+        },
+        {
+          "center_m": 7347.356420016995,
+          "left_m": 7320.875471820955,
+          "right_m": 7371.539484363958
+        },
+        {
+          "center_m": 7387.343095258715,
+          "left_m": 7362.7619215060195,
+          "right_m": 7409.79123805876
+        }
+      ],
+      "adjacent_pairs": [
+        {
+          "previous_center_m": 358.5217926421082,
+          "current_center_m": 899.8957035507372,
+          "signed_intersection_m": 118.8381755653088,
+          "paper_facing_halves_rate": 0.18000000000000005,
+          "previous_full_width_rate": 0.17325044775101764,
+          "current_full_width_rate": 0.18664023850091502,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 899.8957035507372,
+          "current_center_m": 1402.4308118370443,
+          "signed_intersection_m": 110.31258474577476,
+          "paper_facing_halves_rate": 0.18000000000000005,
+          "previous_full_width_rate": 0.1732504477510177,
+          "current_full_width_rate": 0.186640238500915,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 1402.4308118370443,
+          "current_center_m": 1868.9134589902305,
+          "signed_intersection_m": 102.3986298628945,
+          "paper_facing_halves_rate": 0.1799999999999996,
+          "previous_full_width_rate": 0.17325044775101756,
+          "current_full_width_rate": 0.18664023850091493,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 1868.9134589902305,
+          "current_center_m": 2301.9300910760994,
+          "signed_intersection_m": 95.0524314334832,
+          "paper_facing_halves_rate": 0.17999999999999972,
+          "previous_full_width_rate": 0.17325044775101736,
+          "current_full_width_rate": 0.18664023850091466,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 2301.9300910760994,
+          "current_center_m": 2703.881599470398,
+          "signed_intersection_m": 88.23325794021184,
+          "paper_facing_halves_rate": 0.17999999999999983,
+          "previous_full_width_rate": 0.17325044775101753,
+          "current_full_width_rate": 0.18664023850091482,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 2703.881599470398,
+          "current_center_m": 3076.996632771043,
+          "signed_intersection_m": 81.90329999282403,
+          "paper_facing_halves_rate": 0.17999999999999916,
+          "previous_full_width_rate": 0.17325044775101672,
+          "current_full_width_rate": 0.186640238500914,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 3076.996632771043,
+          "current_center_m": 3423.3439536980663,
+          "signed_intersection_m": 76.02746069129807,
+          "paper_facing_halves_rate": 0.1800000000000006,
+          "previous_full_width_rate": 0.1732504477510183,
+          "current_full_width_rate": 0.1866402385009156,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 3423.3439536980663,
+          "current_center_m": 3744.843909494994,
+          "signed_intersection_m": 70.57316102859386,
+          "paper_facing_halves_rate": 0.17999999999999994,
+          "previous_full_width_rate": 0.17325044775101758,
+          "current_full_width_rate": 0.18664023850091493,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 3744.843909494994,
+          "current_center_m": 4043.2790794301045,
+          "signed_intersection_m": 65.51015925404863,
+          "paper_facing_halves_rate": 0.17999999999999894,
+          "previous_full_width_rate": 0.17325044775101767,
+          "current_full_width_rate": 0.18664023850091482,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 4043.2790794301045,
+          "current_center_m": 4320.304158433395,
+          "signed_intersection_m": 60.810383195844224,
+          "paper_facing_halves_rate": 0.17999999999999994,
+          "previous_full_width_rate": 0.17325044775101753,
+          "current_full_width_rate": 0.186640238500915,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 4320.304158433395,
+          "current_center_m": 4577.455131669779,
+          "signed_intersection_m": 56.44777461286503,
+          "paper_facing_halves_rate": 0.18000000000000071,
+          "previous_full_width_rate": 0.17325044775101853,
+          "current_full_width_rate": 0.18664023850091557,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 4577.455131669779,
+          "current_center_m": 4816.157790917587,
+          "signed_intersection_m": 52.39814471293357,
+          "paper_facing_halves_rate": 0.18000000000000038,
+          "previous_full_width_rate": 0.17325044775101794,
+          "current_full_width_rate": 0.1866402385009158,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 4816.157790917587,
+          "current_center_m": 5037.735639972031,
+          "signed_intersection_m": 48.63904003634161,
+          "paper_facing_halves_rate": 0.1800000000000005,
+          "previous_full_width_rate": 0.17325044775101825,
+          "current_full_width_rate": 0.18664023850091496,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 5037.735639972031,
+          "current_center_m": 5243.41723290571,
+          "signed_intersection_m": 45.14961796105126,
+          "paper_facing_halves_rate": 0.17999999999999927,
+          "previous_full_width_rate": 0.17325044775101647,
+          "current_full_width_rate": 0.18664023850091435,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 5243.41723290571,
+          "current_center_m": 5434.342985873646,
+          "signed_intersection_m": 41.9105311393032,
+          "paper_facing_halves_rate": 0.1800000000000005,
+          "previous_full_width_rate": 0.17325044775101825,
+          "current_full_width_rate": 0.1866402385009153,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 5434.342985873646,
+          "current_center_m": 5611.571500231406,
+          "signed_intersection_m": 38.903820224873925,
+          "paper_facing_halves_rate": 0.17999999999999905,
+          "previous_full_width_rate": 0.17325044775101656,
+          "current_full_width_rate": 0.18664023850091402,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 5611.571500231406,
+          "current_center_m": 5776.085432025268,
+          "signed_intersection_m": 36.1128142962134,
+          "paper_facing_halves_rate": 0.17999999999999916,
+          "previous_full_width_rate": 0.17325044775101722,
+          "current_full_width_rate": 0.18664023850091424,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 5776.085432025268,
+          "current_center_m": 5928.796940398245,
+          "signed_intersection_m": 33.5220384233362,
+          "paper_facing_halves_rate": 0.17999999999999927,
+          "previous_full_width_rate": 0.17325044775101645,
+          "current_full_width_rate": 0.18664023850091405,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 5928.796940398245,
+          "current_center_m": 6070.55274512104,
+          "signed_intersection_m": 31.117127865979455,
+          "paper_facing_halves_rate": 0.18000000000000038,
+          "previous_full_width_rate": 0.17325044775101853,
+          "current_full_width_rate": 0.18664023850091607,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6070.55274512104,
+          "current_center_m": 6202.138821289763,
+          "signed_intersection_m": 28.8847484272801,
+          "paper_facing_halves_rate": 0.1799999999999975,
+          "previous_full_width_rate": 0.17325044775101475,
+          "current_full_width_rate": 0.1866402385009115,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6202.138821289763,
+          "current_center_m": 6324.284757220503,
+          "signed_intersection_m": 26.812522521381652,
+          "paper_facing_halves_rate": 0.17999999999999827,
+          "previous_full_width_rate": 0.173250447751016,
+          "current_full_width_rate": 0.18664023850091402,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6324.284757220503,
+          "current_center_m": 6437.667799703402,
+          "signed_intersection_m": 24.888960545026748,
+          "paper_facing_halves_rate": 0.18000000000000038,
+          "previous_full_width_rate": 0.17325044775101822,
+          "current_full_width_rate": 0.18664023850091452,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6437.667799703402,
+          "current_center_m": 6542.916609045439,
+          "signed_intersection_m": 23.103397172641962,
+          "paper_facing_halves_rate": 0.17999999999999805,
+          "previous_full_width_rate": 0.17325044775101578,
+          "current_full_width_rate": 0.18664023850091385,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6542.916609045439,
+          "current_center_m": 6640.614744722006,
+          "signed_intersection_m": 21.445932221685325,
+          "paper_facing_halves_rate": 0.17999999999999883,
+          "previous_full_width_rate": 0.17325044775101622,
+          "current_full_width_rate": 0.18664023850091255,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6640.614744722006,
+          "current_center_m": 6731.303900963746,
+          "signed_intersection_m": 19.90737576038282,
+          "paper_facing_halves_rate": 0.18000000000000727,
+          "previous_full_width_rate": 0.17325044775102583,
+          "current_full_width_rate": 0.1866402385009237,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6731.303900963746,
+          "current_center_m": 6815.486910218561,
+          "signed_intersection_m": 18.47919715349508,
+          "paper_facing_halves_rate": 0.1799999999999924,
+          "previous_full_width_rate": 0.17325044775100926,
+          "current_full_width_rate": 0.18664023850090614,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6815.486910218561,
+          "current_center_m": 6893.630531141727,
+          "signed_intersection_m": 17.153477763621595,
+          "paper_facing_halves_rate": 0.17999999999999805,
+          "previous_full_width_rate": 0.17325044775101608,
+          "current_full_width_rate": 0.18664023850091369,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6893.630531141727,
+          "current_center_m": 6966.168036572304,
+          "signed_intersection_m": 15.922867045735984,
+          "paper_facing_halves_rate": 0.17999999999999627,
+          "previous_full_width_rate": 0.17325044775101398,
+          "current_full_width_rate": 0.18664023850091138,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 6966.168036572304,
+          "current_center_m": 7033.50161584507,
+          "signed_intersection_m": 14.780541791582436,
+          "paper_facing_halves_rate": 0.17999999999999716,
+          "previous_full_width_rate": 0.17325044775101459,
+          "current_full_width_rate": 0.18664023850091166,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7033.50161584507,
+          "current_center_m": 7096.004604757764,
+          "signed_intersection_m": 13.720168297908458,
+          "paper_facing_halves_rate": 0.17999999999999905,
+          "previous_full_width_rate": 0.1732504477510174,
+          "current_full_width_rate": 0.18664023850091366,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7096.004604757764,
+          "current_center_m": 7154.023555557852,
+          "signed_intersection_m": 12.735867248799877,
+          "paper_facing_halves_rate": 0.18000000000000183,
+          "previous_full_width_rate": 0.17325044775101955,
+          "current_full_width_rate": 0.18664023850091616,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7154.023555557852,
+          "current_center_m": 7207.880158425995,
+          "signed_intersection_m": 11.822181117398031,
+          "paper_facing_halves_rate": 0.1800000000000086,
+          "previous_full_width_rate": 0.1732504477510252,
+          "current_full_width_rate": 0.18664023850092465,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7207.880158425995,
+          "current_center_m": 7257.8730251100405,
+          "signed_intersection_m": 10.974043906254337,
+          "paper_facing_halves_rate": 0.18000000000000715,
+          "previous_full_width_rate": 0.17325044775102555,
+          "current_full_width_rate": 0.1866402385009219,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7257.8730251100405,
+          "current_center_m": 7304.279344598993,
+          "signed_intersection_m": 10.186753058551403,
+          "paper_facing_halves_rate": 0.18000000000001315,
+          "previous_full_width_rate": 0.1732504477510303,
+          "current_full_width_rate": 0.18664023850092765,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7304.279344598993,
+          "current_center_m": 7347.356420016995,
+          "signed_intersection_m": 9.455943384439706,
+          "paper_facing_halves_rate": 0.1800000000000035,
+          "previous_full_width_rate": 0.17325044775101928,
+          "current_full_width_rate": 0.18664023850092018,
+          "within_all_definitions": true
+        },
+        {
+          "previous_center_m": 7347.356420016995,
+          "current_center_m": 7387.343095258715,
+          "signed_intersection_m": 8.777562857938392,
+          "paper_facing_halves_rate": 0.17999999999999705,
+          "previous_full_width_rate": 0.17325044775101633,
+          "current_full_width_rate": 0.1866402385009105,
+          "within_all_definitions": true
+        }
+      ],
+      "facing_overlap": 0.18,
+      "line_count": 37,
+      "total_length_m": 137048
+    }
+  ],
+  "selected_facing_overlap": 0.105,
+  "selected_line_count": 34,
+  "selected_total_length_m": 125936
+}

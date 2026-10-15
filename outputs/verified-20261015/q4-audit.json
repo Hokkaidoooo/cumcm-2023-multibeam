@@ -1,0 +1,126 @@
+{
+  "reconstruction_complete": false,
+  "missing": [
+    "original attachment workbook and its source identity",
+    "generation rules for processed dataset 2",
+    "traceable region fitting, clipping, and actual line lengths"
+  ],
+  "datasets": [
+    {
+      "path": "code/问题四/处理后数据1.xlsx",
+      "bytes": 978518,
+      "sha256": "42b4449fce59d47e29f0611009e442d075e716be20ed3a5aa4c9bf763e1bbbbb",
+      "sheet": "Sheet1",
+      "header": [
+        "X",
+        "Y",
+        "Z"
+      ],
+      "data_rows": 50451,
+      "invalid_numeric_rows": 0,
+      "duplicate_coordinates": 0,
+      "column_minima": [
+        0,
+        0,
+        20
+      ],
+      "column_maxima": [
+        4,
+        5,
+        197.2
+      ],
+      "units": {
+        "X": "nautical miles inferred from domain extent and source coordinates",
+        "Y": "nautical miles inferred from domain extent and source coordinates",
+        "Z": "metres; dataset 1 positive depth, dataset 2 negative height",
+        "Z1": "dataset 2 only; generating rule and interpretation not supplied"
+      }
+    },
+    {
+      "path": "code/问题四/处理后数据2.xlsx",
+      "bytes": 1582593,
+      "sha256": "b9c6591650781798dd134573570daffcbfc90b7cf9f5596f239e6677cedcd9ab",
+      "sheet": "Sheet1",
+      "header": [
+        "X",
+        "Y",
+        "Z",
+        "Z1"
+      ],
+      "data_rows": 50451,
+      "invalid_numeric_rows": 0,
+      "duplicate_coordinates": 0,
+      "column_minima": [
+        0,
+        0,
+        -197.2,
+        20
+      ],
+      "column_maxima": [
+        4,
+        5,
+        -20,
+        197.2
+      ],
+      "units": {
+        "X": "nautical miles inferred from domain extent and source coordinates",
+        "Y": "nautical miles inferred from domain extent and source coordinates",
+        "Z": "metres; dataset 1 positive depth, dataset 2 negative height",
+        "Z1": "dataset 2 only; generating rule and interpretation not supplied"
+      }
+    }
+  ],
+  "empirical_dataset_comparison": {
+    "joined_coordinate_rows": 50451,
+    "Z_equals_negative_original_rows": 50451,
+    "Z1_equals_original_rows": 50451,
+    "Z1_equals_negative_original_rows": 0,
+    "unmatched_coordinate_rows": 0
+  },
+  "source_scripts": [
+    {
+      "path": "archive/competition-code/问题四/angle.py",
+      "bytes": 2956,
+      "sha256": "12497cdd9ea6b30c6de29f754763413cacbd56552955ee3db31aef1e5803a60b"
+    },
+    {
+      "path": "archive/competition-code/问题四/contour.m",
+      "bytes": 421,
+      "sha256": "0d4a80c5e10a9eded067550f22d935b0a7cbecfa1094fca9d5f1e4cf47690b2d"
+    },
+    {
+      "path": "archive/competition-code/问题四/findsquare.py",
+      "bytes": 1051,
+      "sha256": "150eb04262c5132702d4374189fa0068dff41e18353d5fb1ffa0959ba794f9b0"
+    },
+    {
+      "path": "archive/competition-code/问题四/lines.m",
+      "bytes": 1154,
+      "sha256": "c8a5c546a961b3af02502403d4ca1d60db0f8f2c925a703a08186431662c4867"
+    },
+    {
+      "path": "archive/competition-code/问题四/question4.py",
+      "bytes": 2476,
+      "sha256": "090177ffefc5e81846d9d567129bb178dc5c3ec714dca2b88f4a79bd28c1fda8"
+    },
+    {
+      "path": "archive/competition-code/问题四/visualization.m",
+      "bytes": 483,
+      "sha256": "5cd15862032baa544fd8d8c876ad2c81d92c002c4b5de5f24cb2752f2668b5aa"
+    },
+    {
+      "path": "archive/competition-code/问题四/附件数据处理.py",
+      "bytes": 727,
+      "sha256": "c7f20df34e693cd47507577a00b94acb65d0abd2923d23bfbba4324833d56869"
+    }
+  ],
+  "known_discrepancies": [
+    "region 4 depth uses 6383.61 m but iteration stops at 6373.61 m",
+    "region 1 length scaling uses 8869.43 m while spacing uses 8869.44 m",
+    "region 3 length scaling uses 5599.81 m while spacing uses 5599.82 m",
+    "region 4 length scaling uses both 5869.12 m and 5869.19 m",
+    "legacy depth decrement uses sin(alpha) for a horizontal coordinate",
+    "area-ratio length scaling does not clip individual survey lines to region boundaries"
+  ],
+  "solver_status": "No Q4 solution produced. Existing workbooks are evidence, not reconstructed raw data."
+}

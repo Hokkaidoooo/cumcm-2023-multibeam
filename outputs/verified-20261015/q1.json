@@ -1,0 +1,73 @@
+{
+  "parameters": {
+    "depth_origin_m": 70,
+    "slope_deg": -1.5,
+    "opening_deg": 120,
+    "distance_unit": "horizontal metre"
+  },
+  "rows": [
+    {
+      "distance_m": -800,
+      "depth_m": 90.94873725534954,
+      "horizontal_width_m": 315.7051069533371,
+      "seabed_width_m": 315.8133282933294,
+      "paper_overlap_rate": null
+    },
+    {
+      "distance_m": -600,
+      "depth_m": 85.71155294151215,
+      "horizontal_width_m": 297.525571053985,
+      "seabed_width_m": 297.62756058558347,
+      "paper_overlap_rate": 0.34683868331643275
+    },
+    {
+      "distance_m": -400,
+      "depth_m": 80.47436862767478,
+      "horizontal_width_m": 279.3460351546329,
+      "seabed_width_m": 279.4417928778376,
+      "paper_overlap_rate": 0.3056122965026452
+    },
+    {
+      "distance_m": -200,
+      "depth_m": 75.23718431383739,
+      "horizontal_width_m": 261.16649925528077,
+      "seabed_width_m": 261.25602517009173,
+      "paper_overlap_rate": 0.25883102178572126
+    },
+    {
+      "distance_m": 0,
+      "depth_m": 70.0,
+      "horizontal_width_m": 242.98696335592865,
+      "seabed_width_m": 243.07025746234586,
+      "paper_overlap_rate": 0.20529105053064955
+    },
+    {
+      "distance_m": 200,
+      "depth_m": 64.76281568616261,
+      "horizontal_width_m": 224.8074274565765,
+      "seabed_width_m": 224.88448975459994,
+      "paper_overlap_rate": 0.1434136517005833
+    },
+    {
+      "distance_m": 400,
+      "depth_m": 59.52563137232523,
+      "horizontal_width_m": 206.6278915572244,
+      "seabed_width_m": 206.69872204685407,
+      "paper_overlap_rate": 0.07108688703020904
+    },
+    {
+      "distance_m": 600,
+      "depth_m": 54.28844705848784,
+      "horizontal_width_m": 188.44835565787224,
+      "seabed_width_m": 188.51295433910815,
+      "paper_overlap_rate": -0.014580258801916157
+    },
+    {
+      "distance_m": 800,
+      "depth_m": 49.05126274465046,
+      "horizontal_width_m": 170.26881975852012,
+      "seabed_width_m": 170.32718663136228,
+      "paper_overlap_rate": -0.11765361862385482
+    }
+  ]
+}

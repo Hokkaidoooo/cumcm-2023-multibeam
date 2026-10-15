@@ -1,0 +1,4 @@
+# 归档源码按原始字节保留，避免平台换行转换改变来源校验值。
+archive/competition-code/** -text whitespace=cr-at-eol
+# 该历史文件原有的末尾空行也属于被保留的原始字节。
+archive/competition-code/问题四/lines.m whitespace=cr-at-eol,-blank-at-eof

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440" role="img" aria-labelledby="title desc">
+  <title id="title">多波束截面中的垂直水深、水平覆盖宽度与坡面长度</title>
+  <desc id="desc">海面为 z 等于零，水深向下为正。两条边缘波束与倾斜海底相交，交点在水平面投影间的距离为覆盖宽度。</desc>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#334155"/></marker></defs>
+  <rect width="1000" height="440" fill="#fff"/>
+  <g font-family="sans-serif" font-size="19" fill="#1e293b">
+    <path d="M70 60 H950" stroke="#0e7490" stroke-width="2"/><text x="740" y="43">海面 z = 0</text>
+    <path d="M420 60 L110 239 L860 314 Z" fill="#e0f2fe"/>
+    <path d="M40 232 L940 322" stroke="#a16207" stroke-width="4"/><text x="745" y="345">海底 z = D + kq</text>
+    <path d="M420 60 L110 239 M420 60 L860 314" stroke="#0369a1" stroke-width="2"/>
+    <circle cx="420" cy="60" r="7" fill="#0369a1"/><text x="335" y="32">换能器 / 测线中心</text>
+    <path d="M420 77 V260" stroke="#334155" marker-start="url(#arrow)" marker-end="url(#arrow)"/><text x="436" y="188">垂直水深 D (m)</text>
+    <path d="M110 239 V360 M860 314 V360" stroke="#64748b" stroke-dasharray="6 5"/>
+    <path d="M118 371 H852" stroke="#334155" marker-start="url(#arrow)" marker-end="url(#arrow)"/><text x="324" y="401">水平覆盖宽度 W (m)</text>
+    <text x="217" y="230">q₋</text><text x="690" y="271">q₊</text>
+    <text x="464" y="108">开角 θ</text><text x="575" y="232">坡面长度 = W√(1+k²)</text>
+    <path d="M68 84 V185" stroke="#334155" marker-end="url(#arrow)"/><text x="82" y="151">z 向下为正</text>
+  </g>
+</svg>
